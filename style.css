@@ -3,22 +3,22 @@ body{
     text-align: center;
 }
 
-#opponent-choice{
+#you-choice{
     width: 240px;
     height: 240px;
-    background-color: aqua;
+    /* background-color: aqua; */
     margin-top: 10px;
 }
 #my-choice{
     width: 240px;
     height: 240px;
-    background-color: yellow;
+    /* background-color: yellow; */
     margin-top: 10px;
 }
 #choices{
     width:240px;
     height: 80px;
-    background-color: green;
+    /* background-color: green; */
     margin: 0 auto;
     margin-top: 10px;
 }
